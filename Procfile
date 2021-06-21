@@ -1,2 +1,2 @@
-web: gunicorn mgit ain:app
+web: gunicorn main:app
 
